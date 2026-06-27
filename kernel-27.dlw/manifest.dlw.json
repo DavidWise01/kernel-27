@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-KERNEL_27",
+  "name": "KERNEL · PP",
+  "universe": "PSĒPHOS",
+  "moniker": "⟦KERNEL · PP:kernel-27:881ad5⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "881ad57039ffa2c087514593dac43314a3b7c290ba747572b028426f65eeedb1",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
